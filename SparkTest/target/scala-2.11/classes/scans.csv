@@ -1,0 +1,20 @@
+scanId,productName,storeId,sector,quantity,totalPrice
+1,"tee-shirt bleu",1,Textile,3,30.60
+2,"robe rouge",2,Textile,1,27.50
+3,"jean levis",1,Textile,2,70.00
+4,"pizza 4 fromages",5,Surgeles,4,24.80
+5,"petit poids",4,Surgeles,2,2.40
+6,"haricots verts",3,Surgeles,5,5.50
+7,"raviolis",2,Surgeles,1,2.20
+8,"eau",6,Liquides,6,3.60
+9,"jus frais",1,Liquides,3,9.60
+10,"tee-shirt bleu",6,Textile,2,20.40
+11,"casquette",4,Textile,1,13.50
+12,"pizza 4 fromages",7,Surgeles,2,12.40
+13,"ravioli",7,Surgeles,2,4.40
+14,"haricots verts",1,Surgeles,2,2.20
+15,"eau",7,Liquides,9,5.40
+16,"eau gazifie",3,Liquides,3,6.00
+17,"jus frais",3,Liquides,1,3.20
+18,"jus frais",4,Liquides,1,3.20
+19,"eau",2,Liquides,9,5.40
